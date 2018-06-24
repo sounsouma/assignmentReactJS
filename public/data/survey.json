@@ -1,0 +1,24 @@
+{
+    "questions": [
+        {
+            "text": "What is the name of the US president?", 
+            "correct": 1, 
+            "answers": [
+                "Obama", 
+                "Trump", 
+                "Roosvelt", 
+                "Putin"
+            ]
+        }, 
+        {
+            "text": "What is the square root of 100?", 
+            "correct": 3, 
+            "answers": [
+                "sin(10)", 
+                "1", 
+                "100", 
+                "10"
+            ]
+        }
+    ]
+}

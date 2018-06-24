@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.container {
+  	text-align: center;
+}
+.header {
+	background-color: #222;
+	height: 50px;
+	padding: 20px;
+	color: white;
+}
+.title {
+  	font-size: 20px;
+	display: flex;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	height: 10px;
+}
+.nolist{
+	list-style: none;
+}
+.con-survey {
+  text-align: left;
+}
+.con-survey ol.listNumber > li{
+	font-weight: bold;
+	font-size: 18px;
+	text-align: left;
+}
+.con-survey ol.listNumber > li > h2{
+	font-size: 18px;
+}
+.con-survey .btn{
+	margin-left: 40px;
+	margin-bottom: 50px;
+}
+#noteData, .note-data, #noteMessage{
+	padding: 0px 40px 0 40px;
+	color: #0000FF;
+}
